@@ -5,6 +5,8 @@
 
 Crear una aplicación en lenguaje Java, formada por un Front End y en un Back End, que respondiera a una serie de requerimientos que nos fueron dados en formato de consigna. El grupo estaba formado de 5 integrantes y fué construido en equipo, coordinando nuestros esfuerzos y organizándonos contínuamente.
 
+La aplicación fué implementada en dos formatos: Cliente Liviano y Cliente Pesado. El objetivo de esto fué analizar las virtudes de cada modelo de implementación y tener una experiencia de primera mano las dinámicas de trabajo que conlleva esta decisión de Diseño.
+
 ### Tecnologías / Librerías utilizadas
 
 1. Javalin (API)
