@@ -12,7 +12,8 @@ La aplicación fué implementada en dos formatos: Cliente Liviano y Cliente Pesa
 1. Javalin (API)
 2. Quartz (Scheduler)
 3. MYSQL (Database)
-4. React / Mustache (Templater)
+4. Hibernate (Database)
+5. React / Mustache (Templater)
 
 ### Tareas realizadas
 
