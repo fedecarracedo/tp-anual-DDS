@@ -1,28 +1,46 @@
-# Trabajo práctico de Diseño de Sistemas
-## Universidad Tecnológica Nacional - Facultad Regional Buenos Aires
+# 🎓 Universidad Tecnológica Nacional - Facultad Regional Buenos Aires
 
-### Objetivos del trabajo
+## 🎯 Objetivos del trabajo
 
-Crear una aplicación en lenguaje Java, formada por un Front End y en un Back End, que respondiera a una serie de requerimientos que nos fueron dados en formato de consigna. El grupo estaba formado de 5 integrantes y fué construido en equipo, coordinando nuestros esfuerzos y organizándonos contínuamente.
+Desarrollar una aplicación en **Java**, compuesta por un **Front End** y un **Back End**, que respondiera a una serie de requerimientos definidos en una consigna 📄.  
+El proyecto fue realizado en equipo 👥 (5 integrantes), coordinando esfuerzos y organizándonos de forma continua 🤝 para cumplir los objetivos propuestos.
 
-La aplicación fué implementada en dos formatos: Cliente Liviano y Cliente Pesado. El objetivo de esto fué analizar las virtudes de cada modelo de implementación y tener una experiencia de primera mano las dinámicas de trabajo que conlleva esta decisión de Diseño.
+La aplicación se implementó en **dos versiones**:  
+✅ Cliente Liviano  
+✅ Cliente Pesado
 
-### Tecnologías / Librerías utilizadas
+El propósito fue **analizar las virtudes de cada modelo de implementación** y vivir en primera persona las dinámicas de trabajo que implica esta decisión de diseño 🛠️.
 
-1. Javalin (API)
-2. Quartz (Scheduler)
-3. MYSQL (Database)
-4. Hibernate (Database)
-5. React / Mustache (Templater)
+---
 
-### Tareas realizadas
+## 🛠️ Tecnologías / Librerías utilizadas
 
-a - Confección de los diagramas correspondientes a la fase de Diseño del Sistema de Información:
-  1. Diagrama de Clases
-  2. Diagrama de Componentes
-  3. Diagrama de Despliegue
-  4. Diagrama de Entidad-Relación (Para el armado de las bases de datos)
+- ⚙️ **Javalin** (API)  
+- ⏰ **Quartz** (Scheduler)  
+- 🗄️ **MySQL** (Database)  
+- 🛢️ **Hibernate** (ORM - Database)  
+- 🖥️ **React / Mustache** (Templater)
 
-b - Implementación y configuración de las bases de datos relacionales en SQL, utilizando el motor MYSQL.
+---
 
-c - Programación y Testing de los Sistemas diseñados en la primer etapa en lenguaje Java, utilizando las bibliotecas previamente mencionadas.
+## 📝 Tareas realizadas
+
+### 📊 a) Diseño del Sistema de Información
+
+- ✅ Diagrama de Clases  
+- ✅ Diagrama de Componentes  
+- ✅ Diagrama de Despliegue  
+- ✅ Diagrama de Entidad-Relación (para el armado de las bases de datos)  
+
+### 🗄️ b) Implementación de Bases de Datos
+
+- Creación y configuración de bases de datos relacionales en **SQL** usando **MySQL** 🛢️.
+
+### 💻 c) Programación y Testing
+
+- Desarrollo y pruebas de los sistemas diseñados en la primera etapa, programados en **Java** ☕.  
+- Uso de las bibliotecas mencionadas para cumplir con los requisitos funcionales y no funcionales del proyecto 🔍✅.
+
+---
+
+Un proyecto integral donde aplicamos conocimientos teóricos y prácticos, fortaleciendo el trabajo en equipo y la toma de decisiones técnicas 🎯💪.
